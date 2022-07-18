@@ -9,4 +9,5 @@ In [a National Geographic's online educational article](https://education.nation
 
 Notes:
 * "a closer look at the data shows the increase is only in the weakest category, EF0. There's been no increase in stronger twisters, and maybe even a slight decrease in EF4s and EF5s." (from [Tornadoes and Global Warming: Is There a Connection?](https://education.nationalgeographic.org/resource/tornadoes-and-global-warming-there-connection))
+* [Tornado Dashboard: Exploring Three Decades of Violent Storms](https://education.nationalgeographic.org/resource/tornado-dashboard-exploring-three-decades-violent-storms); see also [the dashboard at esri site](https://storymaps.esri.com/stories/tornadoes/).
 * Can we model the time between tornados with a statistical distribution, like exponential distribution?  Can we do inter-event time embedding?
