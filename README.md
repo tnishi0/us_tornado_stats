@@ -4,4 +4,4 @@ In [a National Geographic's online educational article](https://education.nation
 
 * [Data collection](data_collection.ipynb): Using the pandas, BeautifulSoup, and requests modules in Python, I downloaded all the data files containing anunual storm statistics and extracted the tornado data.
 * [Data cleaning](data_cleaning.ipynb): Using pandas, matplotlib, and numpy, I cleaned the tornado data.  In particular, I had to handle missing information on tornado strengths.
-* [Analysis]()
+* [Analysis](): ***
