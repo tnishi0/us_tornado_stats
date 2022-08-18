@@ -10,4 +10,3 @@ I came upon two National Geographic online educational articles ([_Tornadoes and
 
 TEMPORARY NOTES:
 * [Tornado Dashboard: Exploring Three Decades of Violent Storms](https://education.nationalgeographic.org/resource/tornado-dashboard-exploring-three-decades-violent-storms); see also [the dashboard at esri site](https://storymaps.esri.com/stories/tornadoes/).
-* Can we model the time between tornados with a statistical distribution, like exponential distribution?  Can we do inter-event time embedding?
