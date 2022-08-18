@@ -1,4 +1,4 @@
-# Is there evidence of climate change in the US tornado statistics?
+# Is There Evidence of Climate Change in the US Tornado Statistics?
 
 [Intro, TO BE EDITED!] Refer to the assignment in the Coursera course in which I analyzed data on tornados in Midwestern states and observed overall increase in the number of tornados over the last several decades.
 
