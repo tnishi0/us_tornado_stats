@@ -12,9 +12,11 @@ In [_Tornadoes and Climate Change_](https://education.nationalgeographic.org/res
 
 ![analysis_midwestern.png](analysis_midwestern.png)
 
+## Number of tornado days
 
-* "Research has shown that there are fewer days with at least one tornado but more days with over thirty, even as the total number of tornadoes per year has remained relatively stable." (from [_Tornadoes and Climate Change_](https://education.nationalgeographic.org/resource/tornadoes-and-climate-change))
-* "The number of tornadoes in the states that make up Tornado Alley are falling, while tornado events have been on the rise in the states of Mississippi, Alabama, Arkansas, Missouri, Illinois, Indiana, Tennessee, and Kentucky." (from [_Tornadoes and Climate Change_](https://education.nationalgeographic.org/resource/tornadoes-and-climate-change))
+"Research has shown that there are fewer days with at least one tornado but more days with over thirty, even as the total number of tornadoes per year has remained relatively stable." (from [_Tornadoes and Climate Change_](https://education.nationalgeographic.org/resource/tornadoes-and-climate-change))
 
-TEMPORARY NOTES:
-* [Tornado Dashboard: Exploring Three Decades of Violent Storms](https://education.nationalgeographic.org/resource/tornado-dashboard-exploring-three-decades-violent-storms); see also [the dashboard at esri site](https://storymaps.esri.com/stories/tornadoes/).
+## Up and down trends in Tornado Alley
+
+"The number of tornadoes in the states that make up Tornado Alley are falling, while tornado events have been on the rise in the states of Mississippi, Alabama, Arkansas, Missouri, Illinois, Indiana, Tennessee, and Kentucky." (from [_Tornadoes and Climate Change_](https://education.nationalgeographic.org/resource/tornadoes-and-climate-change))
+
