@@ -20,4 +20,6 @@ In [_Tornadoes and Climate Change_](https://education.nationalgeographic.org/res
 
 "The number of tornadoes in the states that make up [Tornado Alley](https://en.wikipedia.org/wiki/Tornado_Alley) are falling, while tornado events have been on the rise in the states of Mississippi, Alabama, Arkansas, Missouri, Illinois, Indiana, Tennessee, and Kentucky." (from [_Tornadoes and Climate Change_](https://education.nationalgeographic.org/resource/tornadoes-and-climate-change))
 
-![analysis_tornado_alley.png](analysis_tornado_alley.png)
+<p align="center">
+<img src="analysis_tornado_alley.png" width="700">
+</p>
