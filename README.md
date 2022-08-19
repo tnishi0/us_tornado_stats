@@ -12,13 +12,10 @@ In [_Tornadoes and Climate Change_](https://education.nationalgeographic.org/res
 
 ![analysis_midwestern.png](analysis_midwestern.png)
 
-## Number of tornado days
-
-"Research has shown that there are fewer days with at least one tornado but more days with over thirty, even as the total number of tornadoes per year has remained relatively stable." (from [_Tornadoes and Climate Change_](https://education.nationalgeographic.org/resource/tornadoes-and-climate-change))
 
 ## Up and down trends in Tornado Alley
 
-"The number of tornadoes in the states that make up [Tornado Alley](https://en.wikipedia.org/wiki/Tornado_Alley) are falling, while tornado events have been on the rise in the states of Mississippi, Alabama, Arkansas, Missouri, Illinois, Indiana, Tennessee, and Kentucky." (from [_Tornadoes and Climate Change_](https://education.nationalgeographic.org/resource/tornadoes-and-climate-change))
+In [_Tornadoes and Climate Change_](https://education.nationalgeographic.org/resource/tornadoes-and-climate-change), they say that "The number of tornadoes in the states that make up [Tornado Alley](https://en.wikipedia.org/wiki/Tornado_Alley) are falling, while tornado events have been on the rise in the states of Mississippi, Alabama, Arkansas, Missouri, Illinois, Indiana, Tennessee, and Kentucky."  Indeed, I see that the average number of tornadoes across those selected states has been increasing since mid 1990s while the number for the Tornado Alley states has been falling since around 1980, as shown in the plot below.
 
 <p align="center">
 <img src="analysis_tornado_alley.png" width="700">
