@@ -1,4 +1,4 @@
-# Is There Evidence of Climate Change in the US Tornado Statistics?
+# Is there evidence of climate change in the US tornado statistics?
 
 I came upon two National Geographic online educational articles that discuss the impacts of climate change on tornadoes in the US and make claims on trends in tornado statistics ([_Tornadoes and Climate Change_](https://education.nationalgeographic.org/resource/tornadoes-and-climate-change) and [_Tornadoes and Global Warming: Is There a Connection?_](https://education.nationalgeographic.org/resource/tornadoes-and-global-warming-there-connection)).  So, I decided to try to get tornado data, visualize them, and validate some of the claims made in those articles.
 
